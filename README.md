@@ -1,6 +1,6 @@
 # Ludo Game in Python 🎲
 
-![](https://github.com/bprasad03/ludo_game/blob/main/Position%20in%20Ludo%20board.png) 
+![](https://github.com/bprasad03/ludo_game/blob/main/ludo_gif.gif) 
 
 A **basic Ludo game** implemented in **Python** using the **Tkinter library**. This project recreates the classic board game Ludo with simple operations like rolling dice, moving tokens, handling game rules (like opening a token on rolling 6), and a basic graphical user interface.  
 
