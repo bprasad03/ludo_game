@@ -31,8 +31,21 @@ This project is **recreated** using resources from **YouTube tutorials** and **o
 
 ## 💻 Technologies Used
 
-- ** Python **  
+- **Python**  
 - **Tkinter library** for GUI  
 - Basic **OOP concepts** for managing game logic  
 
 ---
+
+---
+
+## ✅ Conclusion
+
+Through this project, I learned how to:
+
+- Implement and work with **Python libraries**, especially **Tkinter** for GUI development.  
+- Handle **game rules and logic** programmatically, such as moving tokens, opening tokens on rolling a 6, and enforcing turn-based play.  
+- Structure a small project with **interactive elements** and a basic user interface.  
+
+This project helped me strengthen my understanding of **Python programming, event handling, and GUI design**, while recreating a fun, classic board game.
+
